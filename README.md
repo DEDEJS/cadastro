@@ -1,2 +1,2 @@
 # cadastro
-Cadastro com Javascript e PHP
+Cadastro com  PHP
